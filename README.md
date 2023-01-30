@@ -1,6 +1,6 @@
 # Автотесты для [demoqa.com](https://demoqa.com/automation-practice-form)
 ## Technology Stack
-**Java, Gradle, Junit5, Selenide, Selenoid**
+**Java, Gradle, Junit5, Selenide**
 
 ## Реализованы проверки:
 - [X] Заполнение полей данными;
